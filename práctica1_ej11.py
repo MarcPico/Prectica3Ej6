@@ -1,4 +1,4 @@
-
+print('prectica prectica bro')
 print('Jaume LLoret volvió a estar aquí')
 
 print('Hello world!')
